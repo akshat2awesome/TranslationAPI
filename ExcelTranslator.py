@@ -61,7 +61,7 @@ while True:
 
 translator = Translator()
 
-for index in range(10):
+for index in data.index:
     try:
         for col in coltochange:
             lineres = translator.translate(data[col][index], src=fromLang, des=toLang)
