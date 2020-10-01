@@ -1,2 +1,2 @@
 # TranslationAPI
-It will contain various translation tools for speech, text, csv etc.
+It contains various translation tools for speech, text, csv etc.
